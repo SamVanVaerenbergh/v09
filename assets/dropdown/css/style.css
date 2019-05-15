@@ -1,7 +1,7 @@
 .navbar-dropdown {
   left: 0;
   padding: 0;
-  position: absolute;
+  position: left;
   right: 0;
   top: 0;
   transition: all 0.45s ease;
@@ -20,7 +20,7 @@
   .navbar-dropdown .navbar-caption {
     font-weight: 700;
     white-space: normal;
-    vertical-align: -4px;
+    vertical-align: px;
     line-height: 3.125rem !important; }
     .navbar-dropdown .navbar-caption, .navbar-dropdown .navbar-caption:hover {
       color: inherit;
